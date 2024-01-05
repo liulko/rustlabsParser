@@ -16,7 +16,7 @@ def get_item_id(url, ua) -> int:
         return 0
 
 
-with open('skinsLinksDictTest.json', 'r', encoding='utf-8') as f:
+with open('skinsLinksDict.json', 'r', encoding='utf-8') as f:
     skinsLinksDict = json.load(f)
     f.close()
 
@@ -50,6 +50,6 @@ for weapon, weapon_details in skinsLinksDict.items():
 
 resJson = {"Skins": resJson}
 
-with open('resJsonTest.json', 'w', encoding='utf-8') as f:
+with open('resJson2.json', 'w', encoding='utf-8') as f:
     json.dump(resJson, f)
     f.close()
