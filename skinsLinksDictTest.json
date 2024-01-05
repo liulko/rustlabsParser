@@ -1,0 +1,274 @@
+{
+  "Weapon": {
+    "Assault Rifle": [
+      {
+        "name": "Snowflake AR",
+        "href": "https://rustlabs.com/skin/snowflake-ar"
+      },
+      {
+        "name": "Gingerbread Man AK",
+        "href": "https://rustlabs.com/skin/gingerbread-man-ak"
+      },
+      {
+        "name": "Ninja AR",
+        "href": "https://rustlabs.com/skin/ninja-ar"
+      },
+      {
+        "name": "Twitchmas AR",
+        "href": "https://rustlabs.com/skin/twitchmas-ar"
+      },
+      {
+        "name": "Dilanzito & Alkapone Team AR",
+        "href": "https://rustlabs.com/skin/dilanzito-&-alkapone-team-ar"
+      },
+      {
+        "name": "Dhalucard AR",
+        "href": "https://rustlabs.com/skin/dhalucard-ar"
+      },
+      {
+        "name": "Panpots AR",
+        "href": "https://rustlabs.com/skin/panpots-ar"
+      },
+      {
+        "name": "Abyss AR",
+        "href": "https://rustlabs.com/skin/abyss-ar"
+      },
+      {
+        "name": "Ronin AR",
+        "href": "https://rustlabs.com/skin/ronin-ar"
+      },
+      {
+        "name": "Bullseye AR",
+        "href": "https://rustlabs.com/skin/bullseye-ar"
+      },
+      {
+        "name": "Suprematism AR",
+        "href": "https://rustlabs.com/skin/suprematism-ar"
+      },
+      {
+        "name": "Zombieland AR",
+        "href": "https://rustlabs.com/skin/zombieland-ar"
+      },
+      {
+        "name": "Pumpkin Exhibition",
+        "href": "https://rustlabs.com/skin/pumpkin-exhibition"
+      }
+    ]
+  },
+  "Construction": {
+    "Armored Door": [
+      {
+        "name": "Brutalist Armored Door",
+        "href": "https://rustlabs.com/skin/brutalist-armored-door"
+      },
+      {
+        "name": "Sinister Armored Door",
+        "href": "https://rustlabs.com/skin/sinister-armored-door"
+      },
+      {
+        "name": "Bombing Armored Door",
+        "href": "https://rustlabs.com/skin/bombing-armored-door"
+      },
+      {
+        "name": "Bombshell Armored Door",
+        "href": "https://rustlabs.com/skin/bombshell-armored-door"
+      },
+      {
+        "name": "Day and Night Armored Door",
+        "href": "https://rustlabs.com/skin/day-and-night-armored-door"
+      },
+      {
+        "name": "Dungeon Armored Door",
+        "href": "https://rustlabs.com/skin/dungeon-armored-door"
+      },
+      {
+        "name": "Trust in Rust Armored Door",
+        "href": "https://rustlabs.com/skin/trust-in-rust-armored-door"
+      },
+      {
+        "name": "Gift Bunker Door",
+        "href": "https://rustlabs.com/skin/gift-bunker-door"
+      },
+      {
+        "name": "No Mercy Armored Door",
+        "href": "https://rustlabs.com/skin/no-mercy-armored-door"
+      },
+      {
+        "name": "Tombgate Armored Door",
+        "href": "https://rustlabs.com/skin/tombgate-armored-door"
+      },
+      {
+        "name": "Constellations Armored Door",
+        "href": "https://rustlabs.com/skin/constellations-armored-door"
+      },
+      {
+        "name": "Minted Gold Armored Door",
+        "href": "https://rustlabs.com/skin/minted-gold-armored-door"
+      },
+      {
+        "name": "Reinforced Armored Door",
+        "href": "https://rustlabs.com/skin/reinforced-armored-door"
+      },
+      {
+        "name": "Armored Door from Hell",
+        "href": "https://rustlabs.com/skin/armored-door-from-hell"
+      },
+      {
+        "name": "Outer Planets Armored Door",
+        "href": "https://rustlabs.com/skin/outer-planets-armored-door"
+      },
+      {
+        "name": "Cargo Heli Armored Door",
+        "href": "https://rustlabs.com/skin/cargo-heli-armored-door"
+      },
+      {
+        "name": "Pixel Armored Door",
+        "href": "https://rustlabs.com/skin/pixel-armored-door"
+      },
+      {
+        "name": "Loot Lord Armored Door",
+        "href": "https://rustlabs.com/skin/loot-lord-armored-door"
+      },
+      {
+        "name": "Arctic Base Door",
+        "href": "https://rustlabs.com/skin/arctic-base-door"
+      },
+      {
+        "name": "Hellgate Armored Door",
+        "href": "https://rustlabs.com/skin/hellgate-armored-door"
+      },
+      {
+        "name": "Charitable Rust 2021 Armored Door",
+        "href": "https://rustlabs.com/skin/charitable-rust-2021-armored-door"
+      },
+      {
+        "name": "Comics Armored Door",
+        "href": "https://rustlabs.com/skin/comics-armored-door"
+      },
+      {
+        "name": "Mammoth Armored Door",
+        "href": "https://rustlabs.com/skin/mammoth-armored-door"
+      },
+      {
+        "name": "Weather Armored Door",
+        "href": "https://rustlabs.com/skin/weather-armored-door"
+      },
+      {
+        "name": "Molten Visage Armored Door",
+        "href": "https://rustlabs.com/skin/molten-visage-armored-door"
+      },
+      {
+        "name": "Armored Scrapper Door",
+        "href": "https://rustlabs.com/skin/armored-scrapper-door"
+      },
+      {
+        "name": "Blast Armored Door",
+        "href": "https://rustlabs.com/skin/blast-armored-door"
+      },
+      {
+        "name": "Mainframe Door",
+        "href": "https://rustlabs.com/skin/mainframe-door"
+      },
+      {
+        "name": "Cargo Ship Security Door",
+        "href": "https://rustlabs.com/skin/cargo-ship-security-door"
+      },
+      {
+        "name": "HellBunker Door",
+        "href": "https://rustlabs.com/skin/hellbunker-door"
+      },
+      {
+        "name": "Armored Mason Door",
+        "href": "https://rustlabs.com/skin/armored-mason-door"
+      },
+      {
+        "name": "Hellfire Portal",
+        "href": "https://rustlabs.com/skin/hellfire-portal"
+      },
+      {
+        "name": "Apocalypse Door",
+        "href": "https://rustlabs.com/skin/apocalypse-door"
+      },
+      {
+        "name": "Aristocratic Armored Door",
+        "href": "https://rustlabs.com/skin/aristocratic-armored-door"
+      },
+      {
+        "name": "Cobalt Graffiti Door",
+        "href": "https://rustlabs.com/skin/cobalt-graffiti-door"
+      },
+      {
+        "name": "TacCom Security Door",
+        "href": "https://rustlabs.com/skin/taccom-security-door"
+      },
+      {
+        "name": "Armored Concrete",
+        "href": "https://rustlabs.com/skin/armored-concrete"
+      },
+      {
+        "name": "Safe Room Door",
+        "href": "https://rustlabs.com/skin/safe-room-door"
+      },
+      {
+        "name": "Bunker Door",
+        "href": "https://rustlabs.com/skin/bunker-door"
+      },
+      {
+        "name": "Keep Out Armored Door",
+        "href": "https://rustlabs.com/skin/keep-out-armored-door"
+      },
+      {
+        "name": "Armored Vault Door",
+        "href": "https://rustlabs.com/skin/armored-vault-door"
+      },
+      {
+        "name": "Green Armored Container Door",
+        "href": "https://rustlabs.com/skin/green-armored-container-door"
+      },
+      {
+        "name": "Urban Armored Door",
+        "href": "https://rustlabs.com/skin/urban-armored-door"
+      },
+      {
+        "name": "Clockwork Portal",
+        "href": "https://rustlabs.com/skin/clockwork-portal"
+      },
+      {
+        "name": "Military Armored Door",
+        "href": "https://rustlabs.com/skin/military-armored-door"
+      },
+      {
+        "name": "No Escape",
+        "href": "https://rustlabs.com/skin/no-escape"
+      },
+      {
+        "name": "Radioactive Armored Door",
+        "href": "https://rustlabs.com/skin/radioactive-armored-door"
+      },
+      {
+        "name": "Corroded Bronze Door",
+        "href": "https://rustlabs.com/skin/corroded-bronze-door"
+      },
+      {
+        "name": "High Voltage",
+        "href": "https://rustlabs.com/skin/high-voltage"
+      },
+      {
+        "name": "Incarceration Armored Door",
+        "href": "https://rustlabs.com/skin/incarceration-armored-door"
+      },
+      {
+        "name": "Laboratory Armored Door",
+        "href": "https://rustlabs.com/skin/laboratory-armored-door"
+      }
+    ]
+  },
+  "Tool": {
+    "Torch": [
+      {
+        "name": "Cultist Deer Torch",
+        "href": "https://rustlabs.com/skin/cultist-deer-torch"
+      }
+    ]
+  }
+}
